@@ -1,0 +1,4 @@
+The Python Script takes a synthesized Netlist and Produces 3 different sets of inputs. The user can user a simulator of their choice to view the Black Box waveforms.
+
+##Note that this testbench does not test for functionality
+##The json file stores the inputs generated during the random generation of inputs to be used Post insertion of Key gates.
