@@ -1,0 +1,18 @@
+Name Trans Load Delay
+-------------------------------------
+AND1_2X 0.1 1.25ff 1.50ns
+AND1_3X 0.2 1.98ff 1.75ns
+AND2_3X 0.3 2.27ff 2.37ns
+AND2_4X 0.5 2.54ff 1.82ns
+NAND1_2X 0.2 1.69ff 2.14ns
+NAND2_3X 0.3 2.11ff 2.48ns
+
+Name Trans Load Delay
+-------------------------------------
+AND1_2X 0.1 1.25ff 1.50ns
+AND1_3X 0.2 1.98ff 1.75ns
+AND2_3X 0.3 2.27ff 2.37ns
+AND2_4X 0.5 2.54ff 1.82ns
+NAND1_2X 0.2 1.69ff 2.14ns
+NAND2_3X 0.3 2.11ff 2.48ns
+
