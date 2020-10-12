@@ -1,3 +1,6 @@
+#This file is used to convert the .lib file into .db file. Synopsys Design compiler takes input in the form of database files.
+
+
 Step 1: Copy the .lib file to the project directory
 Step 2: Open the .lib file and the in the first line {library ("x")}, where x is the name of the library
 Step 3: In line10, replace read_lib y, where y is the .lib file name 
