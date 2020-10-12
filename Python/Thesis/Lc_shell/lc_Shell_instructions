@@ -1,0 +1,6 @@
+Step 1: Copy the .lib file to the project directory
+Step 2: Open the .lib file and the in the first line {library ("x")}, where x is the name of the library
+Step 3: In line10, replace read_lib y, where y is the .lib file name 
+Step 4: In line10, replace write_lib with x from step 2. following which replace the name after "-output" to your desired filename.db
+
+grep_stdout = p.communicate(input=b'read_lib asap7sc7p5t_24_SIMPLE_LVT_TT.lib\nwrite_lib asap7sc7p5t_22b_SIMPLE_LVT_TT_170906 -format db -output asap7sc7p5t_LVT_TT.db')[0]
